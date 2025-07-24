@@ -1,0 +1,16 @@
+Printing information about all collected images
+
+Minimum number of images per specimen: 1
+Mean number of images per specimen: 211.7422680412371
+Median number of images per specimen: 180.0
+Standard deviation number of images per specimen: 198.19090917525057
+Maximum number of images per specimen: 2692
+
+
+Printing information about specimen with mathematically negative weights:
+
+Number of negative controls with mathematically negative weights: 5
+['9_D6' '3_N2' '10_N1' '10_N2' '10_N3']
+
+Number of specimen with mathematically negative weights: 4
+['9_B10' '9_C6' '9_F12' '10_B10']

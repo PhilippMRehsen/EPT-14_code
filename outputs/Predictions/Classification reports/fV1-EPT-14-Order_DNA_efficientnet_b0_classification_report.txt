@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+Ephemeroptera       0.98      0.97      0.97       155
+   Plecoptera       1.00      1.00      1.00        19
+  Trichoptera       0.99      0.99      0.99       569
+
+     accuracy                           0.99       743
+    macro avg       0.99      0.99      0.99       743
+ weighted avg       0.99      0.99      0.99       743
+
